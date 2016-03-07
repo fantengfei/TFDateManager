@@ -49,6 +49,6 @@
   + (NSString *)getSpecialtyTimeWithUnixTime:(NSInteger)atUnixTime;
   ```
   ```
+  // 获取如： ”xxxx 年 xx 月 xx 日 星期一“ 的格式
   + (NSString *)getSpecialtyDateFromUnixTime: (NSInteger) atUnixTime;
-  获取如： ”xxxx 年 xx 月 xx 日 星期一“ 的格式
   ```
